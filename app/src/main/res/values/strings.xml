@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">squirrelfactslec</string>
+    <string name="title_activity_squirrel_info">SquirrelInfoActivity</string>
 </resources>

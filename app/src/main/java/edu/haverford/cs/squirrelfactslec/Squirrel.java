@@ -5,6 +5,7 @@ public class Squirrel {
     private String mLocation;
     private String mPicture;
 
+
     public Squirrel(String name, String location, String picture) {
         mName = name;
         mLocation = location;
@@ -14,4 +15,6 @@ public class Squirrel {
     public String getName() { return mName; }
     public String getLocation() { return mLocation; }
     public String getPicture() { return mPicture; }
+
+    public void setName(String name) { mName = name; }
 }
